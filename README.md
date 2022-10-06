@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mowahome
 - 👀 I’m interested in ...machine learning, python, blockchain, AI
 - 🌱 I’m currently learning ...all things fintech
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...healthcare and AI projects, ML use cases
 - 📫 How to reach me ...biz.mosef@gmail.com
 
 <!---
